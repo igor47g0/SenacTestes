@@ -20,6 +20,7 @@ public class Main {
              System.out.println("Va caçar o que fazer!");
          }else{
              System.out.println("Invalido!");
+             
          }
     }
     }
