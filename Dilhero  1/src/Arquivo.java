@@ -17,7 +17,7 @@ public class Arquivo {
         }finally {
             if(sc != null);
             sc.close();
-            
+
         }
     }
 }
