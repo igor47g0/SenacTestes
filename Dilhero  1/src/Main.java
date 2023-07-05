@@ -12,11 +12,11 @@ public class Main {
         fome  = entre.nextInt();
          if (fome == 1 && dinheiro == 1){
              System.out.println("Va para a cantina!");
-         }else if (fome == 1&& dinheiro==2){
+         }else if (fome == 1 && dinheiro==2){
              System.out.println("Trabalho que é bom nada");
-         } else if (fome==2 && dinheiro==1 ) {
+         } else if (fome== 1 && dinheiro==2 ) {
              System.out.println("Garde o dinheiro");
-         } else if (fome == 2&& dinheiro==2) {
+         } else if (fome == 2 && dinheiro==2) {
              System.out.println("Va caçar o que fazer!");
          }else{
              System.out.println("Invalido!");

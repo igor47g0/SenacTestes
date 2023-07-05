@@ -11,7 +11,7 @@ public class Quis {
                        "\nA-quarta temporada" +
                        "\nB-terceira temporada" +
                        "\nC-quinta temporada");
-       if (quiz1.equals("A")||quiz1.equals("e")) {
+       if (quiz1.equals("E")||quiz1.equals("e")) {
            JOptionPane.showMessageDialog(null,
                    "correto vc assitio uma boa temporada " + nomeJogador);
            pontos=1;
