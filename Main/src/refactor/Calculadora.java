@@ -36,5 +36,6 @@ public class Calculadora {
                 System.out.println(numero1 / numero2);
                 break;
         }
+
     }
 }
